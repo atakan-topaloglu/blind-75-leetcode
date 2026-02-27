@@ -29,7 +29,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 
 ## Dynamic Programming
 - [x] [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/)
-- [] [Coin Change](https://leetcode.com/problems/coin-change/)
+- [ ] [Coin Change](https://leetcode.com/problems/coin-change/)
 - [x] [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/)
 - [x] [Longest Common Subsequence](https://leetcode.com/problems/longest-common-subsequence/)
 - [ ] [Word Break](https://leetcode.com/problems/word-break/)
@@ -64,8 +64,8 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 ---
 
 ## Linked List
-- [ ] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
-- [ ] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
+- [x] [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
+- [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
 - [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
