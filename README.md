@@ -12,8 +12,8 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/)
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
-- [ ] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [ ] [3Sum](https://leetcode.com/problems/3sum/)
+- [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+- [x] [3Sum]([https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
@@ -90,7 +90,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
 - [x] [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/)
 - [ ] [Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)
-- [ ] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
+- [x] [Palindromic Substrings](https://leetcode.com/problems/palindromic-substrings/)
 - [ ] [Encode and Decode Strings](https://leetcode.com/problems/encode-and-decode-strings/) *(LeetCode Premium)*
 
 ---
