@@ -50,7 +50,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/)
 - [ ] [Alien Dictionary](https://leetcode.com/problems/alien-dictionary/) *(LeetCode Premium)*
 - [ ] [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree/) *(LeetCode Premium)*
-- [ ] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) *(LeetCode Premium)*
+- [x] [Number of Connected Components in an Undirected Graph](https://leetcode.com/problems/number-of-connected-components-in-an-undirected-graph/) *(LeetCode Premium)*
 
 ---
 
@@ -68,7 +68,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [ ] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/)
+- [-] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [CHECK AGAIN]
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
