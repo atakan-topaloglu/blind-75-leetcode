@@ -83,7 +83,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 
 ## String
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+- [-] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [CHECK AGAIN]
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
