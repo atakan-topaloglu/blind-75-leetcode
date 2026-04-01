@@ -13,7 +13,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Maximum Product Subarray](https://leetcode.com/problems/maximum-product-subarray/)
 - [x] [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 - [x] [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
-- [x] [3Sum]([https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)/)
+- [x] [3Sum](https://leetcode.com/problems/3sum](https://leetcode.com/problems/3sum)/)
 - [x] [Container With Most Water](https://leetcode.com/problems/container-with-most-water/)
 
 ---
@@ -68,22 +68,22 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Detect Cycle in a Linked List](https://leetcode.com/problems/linked-list-cycle/)
 - [ ] [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/)
 - [ ] [Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/)
-- [-] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [CHECK AGAIN]
+- [x] [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) [CHECK AGAIN]
 - [ ] [Reorder List](https://leetcode.com/problems/reorder-list/)
 
 ---
 
 ## Matrix
-- [ ] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
-- [ ] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
-- [ ] [Rotate Image](https://leetcode.com/problems/rotate-image/)
-- [ ] [Word Search](https://leetcode.com/problems/word-search/)
+- [x] [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/)
+- [x] [Spiral Matrix](https://leetcode.com/problems/spiral-matrix/)
+- [x] [Rotate Image](https://leetcode.com/problems/rotate-image/)
+- [x] [Word Search](https://leetcode.com/problems/word-search/)
 
 ---
 
 ## String
 - [x] [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
-- [-] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [CHECK AGAIN]
+- [ ] [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/) [CHECK AGAIN]
 - [ ] [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/)
 - [x] [Valid Anagram](https://leetcode.com/problems/valid-anagram/)
 - [ ] [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
