@@ -107,7 +107,7 @@ A curated list of the Blind 75 LeetCode problems for coding interviews. Fork thi
 - [x] [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/)
 - [ ] [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/)
 - [x] [Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/)
-- [ ] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
+- [x] [Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/)
 
 ---
 
